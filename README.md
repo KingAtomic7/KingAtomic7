@@ -49,72 +49,46 @@ Cybersecurity undergraduate with internship experience across vulnerability asse
 | **Development & systems** | REST APIs, Node.js, Next.js, GitHub Actions, Docker, Linux, Windows/Active Directory |
 | **Data** | Pandas, data preprocessing, visualization, machine-learning workflows |
 
-## Selected projects
+## Featured security projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> These are the three repositories I recommend reviewing first for cybersecurity roles.
 
-**[VAPT-Recon](https://github.com/KingAtomic7/VAPT-Recon)**
+| Project | Focus | What it demonstrates |
+|---|---|---|
+| **[VAPT-Recon](https://github.com/KingAtomic7/VAPT-Recon)** | VAPT automation | Reconnaissance workflow, tool orchestration, scoped scanning, structured reports, Docker and CI |
+| **[CyberShield-NGO](https://github.com/KingAtomic7/CyberShield-NGO)** | Application security | Full-stack risk assessment, access control, security recommendations, and practical security planning |
+| **[Malware-Analysis-Lab](https://github.com/KingAtomic7/Malware-Analysis-Lab)** | Malware analysis | Defensive static triage, file hashes, strings, PE metadata, and structured reports |
 
-Security reconnaissance and scanning workflow designed around target scope, tool orchestration, structured output, and repeatable reporting.
+## More security and software projects
 
-<sub>Python · Reconnaissance · Docker · CI</sub>
+| Repository | Category | Summary |
+|---|---|---|
+| [Keylogger-Detection](https://github.com/KingAtomic7/Keylogger-Detection) | Defensive security | Heuristic process checks and defensive detection exercises |
+| [Blockchain Certificate Verification](https://github.com/KingAtomic7/Blockchain-Certificate-Verification-System) | Secure web development | Certificate integrity and verification prototype; uses hash-based simulation rather than a live blockchain |
+| [Caesar Cipher GUI](https://github.com/KingAtomic7/Modern_Caesar_Cipher_GUI) | Python application | Desktop encryption/decryption GUI for learning classical cryptography |
+| [Portfolio Website](https://github.com/KingAtomic7/AkashKumar) | Web development | Responsive personal portfolio and project showcase |
 
-</td>
-<td width="50%" valign="top">
+## Data science and analytics
 
-**[CyberShield-NGO](https://github.com/KingAtomic7/CyberShield-NGO)**
+| Repository | Focus |
+|---|---|
+| [Customer Satisfaction Prediction](https://github.com/KingAtomic7/Customer-Satisfaction-Prediction-Project) | Predictive modeling |
+| [Netflix Data Analysis](https://github.com/KingAtomic7/Netflix-Data_-Cleaning-Analysis-and-Visualization-project) | Data cleaning and visualization |
+| [Supermart Grocery Sales](https://github.com/KingAtomic7/Supermart-Grocery-Sales---Retail-Analytics-Dataset-Project) | Retail analytics |
+| [Google Play Store Analysis](https://github.com/KingAtomic7/Google-Play-Store-Apps-Project) | App-market analysis |
+| [E-commerce Furniture Analysis](https://github.com/KingAtomic7/E-commerce-Furniture-Dataset-2024-Project) | E-commerce data analysis |
+| [Coca-Cola Stock Analysis](https://github.com/KingAtomic7/Coca-Cola-Stock---Live-and-Updated-Project) | Financial time-series exploration |
+| [Climate Change Modeling](https://github.com/KingAtomic7/Climate-Change-Modeling-Project) | Climate data exploration |
+| [Trader Sentiment Analysis](https://github.com/KingAtomic7/primetrade_trader_sentiment) | Trading sentiment analysis |
 
-Full-stack cybersecurity risk-assessment platform for helping resource-constrained organizations prioritize security improvements.
+## Other learning projects
 
-<sub>Web security · Access control · Risk assessment</sub>
+| Repository | Focus |
+|---|---|
+| [Binance Futures Testnet Bot](https://github.com/KingAtomic7/Automated-Binance-Trading-Bot) | Testnet-only trading automation |
+| [LeetCode Problems](https://github.com/KingAtomic7/LeetCode_Problems) | Coding practice *(private repository)* |
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Malware-Analysis-Lab](https://github.com/KingAtomic7/Malware-Analysis-Lab)**
-
-Defensive file-triage exercises covering hashes, metadata, strings, and PE-oriented inspection.
-
-<sub>Python · Static analysis · File triage</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Keylogger-Detection](https://github.com/KingAtomic7/Keylogger-Detection)**
-
-Detection-oriented project exploring process heuristics and defensive checks for suspicious activity.
-
-<sub>Python · Detection · Endpoint security</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Blockchain Certificate Verification](https://github.com/KingAtomic7/Blockchain-Certificate-Verification-System)**
-
-Prototype exploring certificate verification and data-integrity concepts.
-
-<sub>Blockchain · Verification · Integrity</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Portfolio Website](https://kingatomic7.github.io/AkashKumar/)**
-
-Responsive portfolio presenting my projects, experience, technical skills, and contact details.
-
-<sub>HTML · CSS · JavaScript · Accessibility</sub>
-
-</td>
-</tr>
-</table>
-
-<sub>Project summaries are concise overviews; consult each repository for implementation details, tests, and known limitations.</sub>
+<sub>Repository descriptions reflect the intended project focus. Check each repository's README, tests, and implementation before relying on specific capabilities.</sub>
 
 ## Experience
 
