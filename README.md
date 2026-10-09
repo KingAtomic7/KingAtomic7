@@ -1,13 +1,11 @@
 <!-- GitHub profile README | Akash Kumar -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=4&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:123A67,100:2563EB&height=190&section=header&text=AKASH%20KUMAR&fontSize=42&fontColor=F8FAFC&fontAlignY=36&desc=CYBERSECURITY%20%7C%20APPLICATION%20SECURITY%20%7C%20VAPT&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Animated blue cybersecurity-themed header" />
 
-# Akash Kumar
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Security+Testing+%7C+Vulnerability+Assessment;SOC+Monitoring+%7C+Incident+Response;Python+Automation+%7C+Security+Engineering;Learning+Every+Day.+Building+Secure+Systems." alt="Animated text cycling through cybersecurity interests" /></a>
 
-**Cybersecurity | Application Security | VAPT | Security Engineering**
-
-B.Tech Cybersecurity · SOA University · Expected 2027
+**B.Tech Cybersecurity · SOA University · Expected 2027**
 
 <a href="https://kingatomic7.github.io/AkashKumar/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
 <a href="https://github.com/KingAtomic7?tab=repositories"><strong>Projects</strong></a> &nbsp;·&nbsp;
@@ -22,6 +20,13 @@ B.Tech Cybersecurity · SOA University · Expected 2027
 Cybersecurity undergraduate with internship experience across vulnerability assessment, security monitoring, incident reporting, and Python-based data workflows. I build practical security tools and web applications, with an emphasis on scoped testing, repeatable workflows, and actionable documentation.
 
 **Seeking:** Full-time fresher opportunities in VAPT / Penetration Testing, SOC Analysis, Cybersecurity Analysis, and Junior Security Engineering.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Application%20Security-2563eb?style=flat-square" alt="Focus: Application Security" />
+  <img src="https://img.shields.io/badge/FOCUS-VAPT-0f766e?style=flat-square" alt="Focus: VAPT" />
+  <img src="https://img.shields.io/badge/FOCUS-SOC%20%26%20IR-7c3aed?style=flat-square" alt="Focus: SOC and Incident Response" />
+  <img src="https://komarev.com/ghpvc/?username=KingAtomic7&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views counter" />
+</p>
 
 ## Focus areas
 
@@ -134,9 +139,13 @@ Python data workflows, preprocessing, and machine-learning experimentation.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KingAtomic7&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingAtomic7&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KingAtomic7&show_icons=true&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="GitHub profile statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingAtomic7&layout=compact&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1" alt="Most-used languages" />
 
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=KingAtomic7&bg_color=0b1220&color=cbd5e1&line=3b82f6&point=7dd3fc&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 </div>
 
 ## Contact
@@ -148,5 +157,7 @@ Python data workflows, preprocessing, and machine-learning experimentation.
 <div align="center">
 
 <sub>Focused on practical security, continuous learning, and responsible testing.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:123A67,100:0B1220&height=100&section=footer" width="100%" alt="" />
 
 </div>
