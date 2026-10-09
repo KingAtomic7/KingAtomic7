@@ -145,7 +145,9 @@ Python data workflows, preprocessing, and machine-learning experimentation.
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=KingAtomic7&bg_color=0b1220&color=cbd5e1&line=3b82f6&point=7dd3fc&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+
+<img width="96%" src="https://raw.githubusercontent.com/KingAtomic7/KingAtomic7/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph" />
+
 </div>
 
 ## Contact
