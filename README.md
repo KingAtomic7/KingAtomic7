@@ -1,140 +1,152 @@
-<!-- Modern GitHub profile for Akash Kumar -->
+<!-- GitHub profile README | Akash Kumar -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:155E75,100:2563EB&height=210&section=header&text=Akash%20Kumar&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Cybersecurity%20%7C%20VAPT%20%7C%20Security%20Engineering&descAlignY=59&descSize=18" alt="Akash Kumar — Cybersecurity, VAPT, Security Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=4&section=header" width="100%" alt="" />
 
-### Security-minded developer building practical tools and learning by doing.
+# Akash Kumar
 
-<p>
-<a href="https://kingatomic7.github.io/AkashKumar/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:akashck904@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/KingAtomic7"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+**Cybersecurity | Application Security | VAPT | Security Engineering**
+
+B.Tech Cybersecurity · SOA University · Expected 2027
+
+<a href="https://kingatomic7.github.io/AkashKumar/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
+<a href="https://github.com/KingAtomic7?tab=repositories"><strong>Projects</strong></a> &nbsp;·&nbsp;
+<a href="mailto:akashck904@gmail.com"><strong>Contact</strong></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## Profile
 
-I'm a **B.Tech Cybersecurity student at SOA University (expected 2027)** interested in application security, vulnerability assessment, SOC workflows, and security engineering. My hands-on experience includes cybersecurity internships in VAPT, monitoring and incident reporting, along with Python-based data workflows.
+Cybersecurity undergraduate with internship experience across vulnerability assessment, security monitoring, incident reporting, and Python-based data workflows. I build practical security tools and web applications, with an emphasis on scoped testing, repeatable workflows, and actionable documentation.
 
-- 🔐 **Focus:** VAPT / Penetration Testing, SOC Analysis, Cybersecurity Analysis, Junior Security Engineering
-- 🧪 **Build:** Security automation, web application assessment, malware-analysis utilities, and risk-assessment platforms
-- 🛡️ **Principles:** Authorized testing, safe defaults, reproducible results, and clear remediation guidance
-- 📚 **Currently learning:** eJPT and CompTIA Security+ preparation, AI security fundamentals
-- 🎯 **Open to:** Full-time entry-level / fresher opportunities
+**Seeking:** Full-time fresher opportunities in VAPT / Penetration Testing, SOC Analysis, Cybersecurity Analysis, and Junior Security Engineering.
 
-## 🧰 Tech stack
+## Focus areas
+
+- **Application security:** Web testing, OWASP Top 10, reconnaissance, vulnerability validation
+- **Security operations:** Alert triage, log analysis, incident documentation, threat intelligence
+- **Security engineering:** Python automation, API and access-control testing, CI workflows
+- **Malware analysis:** Static triage, hashes, strings, file metadata, and PE fundamentals
+
+## Technical toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,java,js,ts,c,linux,docker,git,github,nodejs,nextjs,postgres,mysql&perline=7" alt="Python, Bash, Java, JavaScript, TypeScript, C, Linux, Docker, Git, GitHub, Node.js, Next.js, PostgreSQL, MySQL" />
+  <img src="https://skillicons.dev/icons?i=python,bash,java,js,ts,c,linux,docker,git,github,nodejs,nextjs,postgres,mysql&perline=7" alt="Programming languages, development tools, and platforms" />
 </p>
 
-| Domain | Tools and skills |
+| Category | Skills |
 |---|---|
-| **Security testing** | VAPT, reconnaissance, web application security, OWASP Top 10, CVE/CVSS |
-| **Security tools** | Nmap, Burp Suite, Nuclei, Metasploit, Wireshark, Gobuster, ffuf, SQLmap |
-| **SOC & analysis** | Log and alert triage, incident reporting, threat intelligence, malware static analysis |
-| **Frameworks** | OWASP, MITRE ATT&CK, NIST CSF, Cyber Kill Chain, PTES |
-| **Development** | Python, JavaScript/TypeScript, Java, C, REST APIs, SQL, GitHub Actions |
-| **Systems** | Kali Linux, Ubuntu, Windows/Active Directory, Docker, VirtualBox |
+| **Security tools** | Burp Suite, Nmap, Nuclei, Metasploit, Wireshark, Gobuster, ffuf, SQLmap |
+| **Frameworks** | OWASP, MITRE ATT&CK, NIST CSF, Cyber Kill Chain, PTES, CVE/CVSS |
+| **Languages** | Python, JavaScript/TypeScript, Java, C, Bash, SQL |
+| **Development & systems** | REST APIs, Node.js, Next.js, GitHub Actions, Docker, Linux, Windows/Active Directory |
+| **Data** | Pandas, data preprocessing, visualization, machine-learning workflows |
 
-## 🚀 Featured projects
+## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [VAPT-Recon](https://github.com/KingAtomic7/VAPT-Recon)
+**[VAPT-Recon](https://github.com/KingAtomic7/VAPT-Recon)**
 
-A security reconnaissance workflow focused on scoped scanning, security-tool orchestration, structured results, and repeatable reporting.
+Security reconnaissance and scanning workflow designed around target scope, tool orchestration, structured output, and repeatable reporting.
 
-**Python · Recon · Docker · CI**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [CyberShield-NGO](https://github.com/KingAtomic7/CyberShield-NGO)
-
-A full-stack cybersecurity risk-assessment platform designed to help resource-constrained organizations prioritize security improvements.
-
-**Web Security · Access Control · Risk Assessment**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 [Malware-Analysis-Lab](https://github.com/KingAtomic7/Malware-Analysis-Lab)
-
-A defensive lab for inspecting suspicious files using metadata, hashes, strings, and PE-oriented analysis workflows.
-
-**Python · Malware Analysis · File Triage**
+<sub>Python · Reconnaissance · Docker · CI</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🕵️ [Keylogger-Detection](https://github.com/KingAtomic7/Keylogger-Detection)
+**[CyberShield-NGO](https://github.com/KingAtomic7/CyberShield-NGO)**
 
-A detection-oriented project exploring process heuristics and defensive testing for suspicious activity.
+Full-stack cybersecurity risk-assessment platform for helping resource-constrained organizations prioritize security improvements.
 
-**Detection · Python · Endpoint Security**
+<sub>Web security · Access control · Risk assessment</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⛓️ [Blockchain Certificate Verification](https://github.com/KingAtomic7/Blockchain-Certificate-Verification-System)
+**[Malware-Analysis-Lab](https://github.com/KingAtomic7/Malware-Analysis-Lab)**
 
-A prototype exploring certificate verification and data-integrity concepts.
+Defensive file-triage exercises covering hashes, metadata, strings, and PE-oriented inspection.
 
-**Blockchain · Integrity · Verification**
+<sub>Python · Static analysis · File triage</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Portfolio Website](https://kingatomic7.github.io/AkashKumar/)
+**[Keylogger-Detection](https://github.com/KingAtomic7/Keylogger-Detection)**
 
-A responsive portfolio featuring my experience, security projects, technical skills, and contact information.
+Detection-oriented project exploring process heuristics and defensive checks for suspicious activity.
 
-**HTML · CSS · JavaScript · Accessibility**
+<sub>Python · Detection · Endpoint security</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Blockchain Certificate Verification](https://github.com/KingAtomic7/Blockchain-Certificate-Verification-System)**
+
+Prototype exploring certificate verification and data-integrity concepts.
+
+<sub>Blockchain · Verification · Integrity</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Portfolio Website](https://kingatomic7.github.io/AkashKumar/)**
+
+Responsive portfolio presenting my projects, experience, technical skills, and contact details.
+
+<sub>HTML · CSS · JavaScript · Accessibility</sub>
 
 </td>
 </tr>
 </table>
 
-<sub>Project summaries describe each project's intended scope. Check individual repositories for implementation details, tests, and limitations.</sub>
+<sub>Project summaries are concise overviews; consult each repository for implementation details, tests, and known limitations.</sub>
 
-## 💼 Experience
+## Experience
 
-- **Cybersecurity Intern — Prodigy InfoTech** · *Dec 2025 – Jan 2026*  
-  VAPT activities, attack-vector mapping, remediation reporting, and SOC alert triage.
-- **Cybersecurity Intern — Navodita Infotech** · *Dec 2025 – Jan 2026*  
-  Security monitoring, log review, anomaly investigation, incident reporting, and hardening guidance.
-- **Data Science Intern — Unified Mentor Pvt. Ltd.** · *Sep 2025 – Mar 2026*  
-  Python data workflows, preprocessing, and machine-learning experimentation.
+**Cybersecurity Intern · Prodigy InfoTech**  
+*Dec 2025 – Jan 2026*  
+Vulnerability assessment activities, attack-vector mapping, remediation reporting, and SOC alert triage.
 
-## 📊 GitHub at a glance
+**Cybersecurity Intern · Navodita Infotech**  
+*Dec 2025 – Jan 2026*  
+Security monitoring, log review, anomaly investigation, incident reporting, and hardening guidance.
+
+**Data Science Intern · Unified Mentor Pvt. Ltd.**  
+*Sep 2025 – Mar 2026*  
+Python data workflows, preprocessing, and machine-learning experimentation.
+
+## Current learning
+
+- Preparing for **eJPT** and **CompTIA Security+** — not yet completed
+- Building deeper foundations in **AI security**, application security testing, and reliable security automation
+
+## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KingAtomic7&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingAtomic7&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=KingAtomic7&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KingAtomic7&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingAtomic7&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages" />
+
 </div>
 
-## 🤝 Let's connect
+## Contact
 
-I'm happy to connect with people working in application security, VAPT, SOC operations, and security engineering.
-
-- 🌐 **Portfolio:** [kingatomic7.github.io/AkashKumar](https://kingatomic7.github.io/AkashKumar/)
-- 💻 **GitHub:** [@KingAtomic7](https://github.com/KingAtomic7)
-- ✉️ **Email:** [akashck904@gmail.com](mailto:akashck904@gmail.com)
+- **Portfolio:** https://kingatomic7.github.io/AkashKumar/
+- **GitHub:** https://github.com/KingAtomic7
+- **Email:** [akashck904@gmail.com](mailto:akashck904@gmail.com)
 
 <div align="center">
 
-*Secure by design. Test with purpose. Document what you learn.*
+<sub>Focused on practical security, continuous learning, and responsible testing.</sub>
 
 </div>
